@@ -26,6 +26,7 @@ _testmain.go
 *.pprof
 *.out
 *.log
+.idea
 
 /bin
 cover.out
